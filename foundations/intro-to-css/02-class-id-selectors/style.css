@@ -1,1 +1,31 @@
 /* Add CSS Styling */
+* {
+  text-align: center;
+}
+
+.paragraph.similar {
+  color: black;
+  background-color: pink;
+  font-size: large;
+}
+
+#div1 {
+  color: blue;
+  background-color: white;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.paragraph.unique {
+  color: black;
+  background-color: pink;
+  font-size: x-large;
+  font-weight: 500;
+}
+
+#div2 {
+  color: black;
+  background-color: green;
+  font-weight: bold;
+  font-size: larger;
+}
